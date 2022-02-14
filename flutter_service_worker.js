@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "83da97f28dff6dad7ff04ea12d0548b0",
+  "assets/AssetManifest.json": "efd2bf6dac2df65df75d124ef8f4cdae",
 "assets/assets/cv/cv_fran%C3%A7ais.pdf": "63f2f7f649d413269c7a94afe0296719",
 "assets/assets/fonts/Montserrat/static/Montserrat-Bold.ttf": "d14ad1035ae6da4e5a71eca362a8d696",
 "assets/assets/fonts/Montserrat/static/Montserrat-Italic.ttf": "df17124cad6f4767f3bf115f961a14b4",
@@ -11,13 +11,21 @@ const RESOURCES = {
 "assets/assets/fonts/Montserrat/static/Montserrat-regular.ttf": "34de1239b12123b85ff1a68b58835a1f",
 "assets/assets/fonts/Montserrat/static/Montserrat-SemiBold.ttf": "7ffeec2b4edb434d393875ffbe633c30",
 "assets/assets/images/dev.jpg": "624e4078639baa316579a04ba51e6516",
+"assets/assets/images/galaxie.jpg": "13f389d85dfa72307ea5f103899e25e8",
 "assets/assets/images/moi.jpg": "7b351b23b090f4f2cd763595bbfe8cbf",
 "assets/assets/images/moi2.jpg": "1fe63665805ebdd286957f4ba2bd182a",
 "assets/assets/images/montagne.jpg": "c5442c20be4076da0427e7bc73221d90",
+"assets/assets/images/pont.jpg": "d644221f4b3446e8025ae97b4c945aad",
 "assets/assets/images/table_beer_pong.jpg": "5b93588dc10fbd5400aa6d48f028a450",
+"assets/assets/images/table_beer_pong_2.jpg": "cbc2aa2b5cea34dd174f5b8ea41a73c6",
+"assets/assets/images/table_beer_pong_3.jpg": "533e517ad80691de7dc82f07e3bc4f44",
+"assets/assets/images/table_beer_pong_4.jpg": "9a90f1174f1ea4294d8a6a0305406ba6",
 "assets/assets/images/village.jpg": "f3b1ee85f718b0f8d49cdb4b85a18b3b",
 "assets/assets/images/volcan.jpg": "836602f98c3ed72777157ecdc3ee0e4e",
 "assets/assets/images/yorgo.png": "c00afe75d8c51ff73af34155f08d6e86",
+"assets/assets/images/yorgo_2.png": "4327b74cbf715a66ed372004ea710cb7",
+"assets/assets/images/yorgo_3.png": "ec3b0144f2e2b12fadd2c7dbe6306138",
+"assets/assets/images/yorgo_4.png": "f15097aef479e04bbdfa6f449f9c043d",
 "assets/cv/cv_fran%C3%A7ais.pdf": "63f2f7f649d413269c7a94afe0296719",
 "assets/FontManifest.json": "034dc153f0dc1f85855fbca43ee89c0c",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -35,9 +43,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "7689df57c85a24463d255fb0141350e7",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b480cf976915a8047a739ef9f7b3d3bb",
-"/": "b480cf976915a8047a739ef9f7b3d3bb",
-"main.dart.js": "cf3d3b4cdb36d11f2fde7571cdd0ce20",
+"index.html": "e672d48d4ea59988d251a4f5deb722df",
+"/": "e672d48d4ea59988d251a4f5deb722df",
+"main.dart.js": "f05dad3bc0ed29ea58826a5f8a22dcf8",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
